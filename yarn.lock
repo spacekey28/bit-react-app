@@ -1143,6 +1143,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@bit/myliang.fish-ui.button@^1.1.32":
+  version "1.1.32"
+  resolved "https://node.bit.dev/myliang.fish-ui.button/-/myliang.fish-ui.button-1.1.32.tgz#52a58503676fc4375764bbc7f6622aba3bf44bf2"
+  integrity sha1-UqWFA2dvxDdXZLvH9mIqujv0S/I=
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
